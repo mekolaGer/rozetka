@@ -35,11 +35,11 @@ public class AppTest {
 
     }
 
-
-    @After
-    public void postcondition(){
-        driver.quit();
-    }
+//
+//    @After
+//    public void postcondition(){
+//        driver.quit();
+//    }
 
 
 }
